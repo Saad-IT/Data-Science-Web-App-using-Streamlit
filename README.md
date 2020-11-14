@@ -1,2 +1,2 @@
-# Data-Science-Web-App-using-Streamlit
-Here, I have created Data Science Web App using streamlit that display accident data of New York City(NYC) in many data visualization forms.
+# Data Science Web Application Using Streamlit
+This data science web application is a streamlit dashboard that can be used to analyze motor vehicle collisions in New York City(NYC).
